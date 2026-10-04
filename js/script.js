@@ -1,7 +1,7 @@
 // BingaWeb interactions
 // Replace the placeholder number below with your real WhatsApp number.
 // Ghana example: 233241234567 (no +, spaces or dashes)
-const WHATSAPP_NUMBER = "233503625013";
+const WHATSAPP_NUMBER = "233597167403";
 
 const menuBtn = document.getElementById("menuBtn");
 const navMenu = document.getElementById("navMenu");
